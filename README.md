@@ -3,8 +3,8 @@ Nvidia driver + depdenencies GPU compiled tensorflow (NDGPUTF) on Ubuntu is real
 
 Can tensorflow CPU (CPUTF) be used to assist in installing / compiling Nvidia GPU (CUDNN) supported tensorflow?
 
-Should someone use tensorflow CPU to bootstrap fault-tolerant native Nvidia GPU (CUDNN) supported tensorflow compiling?
-Should someone use tensorflow CPU to bootstrap fault-tolerant native AMD GPU (RocM) supported tensorflow compiling?
+Can you use tensorflow CPU to bootstrap a fault-tolerant Nvidia GPU (CUDNN) supported tensorflow build?
+Can you use tensorflow CPU to bootstrap a fault-tolerant AMD GPU (RocM) supported tensorflow build?
 
 
 Assume you are trying to install on an Ubuntu 18 OS with following system specs: 
