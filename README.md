@@ -1,6 +1,8 @@
 # tensorcatgpu
 Nvidia driver + depdenencies GPU compiled tensorflow (NDGPUTF) on Ubuntu is really challenging. Is this difficulty itself a kind of intelligence test? 
 
+What are Neural Networks good for anyway? 
+
 Can tensorflow CPU (CPUTF) be used to assist in installing / compiling Nvidia GPU (CUDNN) supported tensorflow?
 
 Can you use tensorflow CPU to bootstrap a fault-tolerant Nvidia GPU (CUDNN) supported tensorflow build?
