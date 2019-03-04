@@ -27,3 +27,6 @@ OS: Ubuntu 18.10 cosmic
 Yes, you do need a developer account with nvidia to get the necessary files like: libcudnn7-dev_7.4.2.24-1+cuda10.0_amd64.deb
 
 To DO: see further readings from cat tf_env.txt file. 
+
+Install TensorFlow CPU 
+https://www.tensorflow.org/install/pip
