@@ -30,3 +30,10 @@ To DO: see further readings from cat tf_env.txt file.
 
 Install TensorFlow CPU 
 https://www.tensorflow.org/install/pip
+
+
+Describe the neural network or how to generate such for the Ubuntu Linux system.
+
+GPT output:
+The neural network that would need to be generated for the Ubuntu Linux system would be a Convolutional Neural Network (CNN). The input to the CNN would be information about the OS, kernel, uptime, packages, shell, resolution, DE, WM, CPU, GPU and RAM of the system. The output of the network would be installation commands for setting up a bare metal GPU supported TensorFlow instance.
+
